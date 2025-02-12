@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minkeez&label=Profile%20views&color=0e75b6&style=flat" alt="minkeez" /> </p>
 
-- 🔭 I’m currently working on [To-Do List Python](https://github.com/Minkeez/python-todo-list-app)
+- 🔭 I’m currently working on [My Python Project](https://github.com/Minkeez/My_Python_Projects)
 
 - 🌱 I’m currently learning **Python, Flask, Django**
 
