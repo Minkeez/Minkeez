@@ -81,20 +81,10 @@ Crafting enterprise‑grade AI features and shipping real apps that people use.
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=minkeez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
+<img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=minkeez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
 
-<img width="60%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkeez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" />
+<img width="35%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkeez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" />
 
-</div>
-
-<div align="center">
-  <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=minkeez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=minkeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 ## 🌌 Beyond the Code
