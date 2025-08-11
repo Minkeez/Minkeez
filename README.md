@@ -1,28 +1,154 @@
-<h1 align="center">Hi 👋, I'm Phumin "HourCode" Udomdach</h1>
-<h3 align="center">A passionate Undergraduate Robotics and Automation Systems Engineer from Thailand</h3>
+<!--
+  GitHub Profile README — HourCode (minkeez)
+  Tips:
+  - Replace links marked TODO if you add more socials.
+  - Keep images light; too many external SVGs can slow load.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minkeez&label=Profile%20views&color=0e75b6&style=flat" alt="minkeez" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [My Python Project](https://github.com/Minkeez/My_Python_Projects)
+<!-- Header with animated title (accessible alt text) -->
 
-- 🌱 I’m currently learning **Python, Flask, Django**
+<img width="100%" alt="HourCode – Phumin Udomdach • AI Engineer • Thailand" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HourCode&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Phumin%20Udomdach%20•%20AI%20Engineer%20•%20Thailand&descAlignY=55&descSize=18" />
 
-- 📫 How to reach me **phumin.udomdach@gmail.com**
+</div>
 
-- ⚡ Fun fact **I'm an engineer who can code a bit. (but more than knowledge related to engineering)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/phumin udomdach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phumin udomdach" height="30" width="40" /></a>
-<a href="https://instagram.com/min_pudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="min_pudo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hourcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hourcode" /></a><a href="https://ko-fi.com/hourcode"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hourcode" /></a></p><br><br>
+<div align="center">
+  <img alt="Animated typing intro" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+digital+experiences+at+NaviWorld;Always+learning%2C+always+growing;อย่าหยุดที่จะเรียนรู้;Turning+ideas+into+reality" />
+</div>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkeez&show_icons=true&locale=en&layout=compact" alt="minkeez" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minkeez&show_icons=true&locale=en" alt="minkeez" /></p>
+
+## 👋 About Me
+
+Hi, I’m **Phumin Udomdach** (aka **HourCode**). I build practical AI and modern web apps that ship. I currently work as an **AI Engineer / Software Developer at NaviWorld Thailand**—designing solutions that bridge enterprise requirements with clean, developer‑friendly architecture.
+
+* 🏢 Current: NaviWorld (Thailand) Co., Ltd.
+* 🧠 Interests: AI systems, RAG, MLOps, Next.js apps, and product UX that feels fast.
+* 🎯 Philosophy: Small, reliable systems > flashy, fragile ones.
+
+## ⭐ Current Mission
+
+```text
+Crafting enterprise‑grade AI features and shipping real apps that people use.
+```
+
+* 🎨 Rebuilt and redesigned: **naviworld-asia.com**
+* ⚡ Built production Next.js app: **ts.naviworldth.com**
+* 🔧 Delivering maintainable solutions across AI + Web + BC/Power Platform
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Frontend**
+
+<img alt="Frontend stack icons" src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**AI & Backend**
+
+<img alt="AI and backend icons" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,nodejs,express&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**Cloud & Infra**
+
+<img alt="Cloud and infrastructure icons" src="https://skillicons.dev/icons?i=azure,postgresql,mongodb,docker,git,linux&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🚀 Featured Work
+
+* **NaviWorld Website** — New UX, performance improvements, and content structure.
+* **Ticket Summarizer** — Next.js + AI backend for support acceleration (internal).
+* **IT Support Assistant (Axora)** — RAG + Supabase + Next.js (MVP in progress).
+
+> Want details or a short case study? Open an issue here and I’ll add a write‑up.
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=minkeez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
+
+<img width="60%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkeez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" />
+
+</div>
+
+<div align="center">
+  <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=minkeez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff" />
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=minkeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
+</div>
+
+## 🌌 Beyond the Code
+
+```text
+Fast Learner • AI Enthusiast • Nature Lover • Space Curious
+Pixel‑Art Fan • Sci‑Fi Aesthetics
+
+"Every sunset brings the promise of a new dawn" — and new code to write.
+```
+
+<details>
+<summary>More interests</summary>
+
+* Sunset photography — chasing the golden hour
+* Forest hiking — finding calm in green
+* Retro gaming — 8‑bit nostalgia
+* Space documentaries — expanding perspective
+* Machine Learning — teaching models to help people
+* UI/UX — making speed feel beautiful
+
+</details>
+
+## 🌍 Contact
+
+<div align="center">
+
+<a href="mailto:phumin.udomdach@gmail.com">
+  <img alt="Email badge" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0078D4" />
+</a>
+<a href="https://naviworld-asia.com">
+  <img alt="NaviWorld site badge" src="https://img.shields.io/badge/NaviWorld-00D4AA?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=00D4AA" />
+</a>
+<!-- Optional socials
+<a href="https://www.linkedin.com/in/TODO">
+  <img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+-->
+
+<br/><br/>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=minkeez&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+"Code is poetry written in logic"
+Thanks for visiting my corner of the internet — may your builds be green and your coffee strong.
+```
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
